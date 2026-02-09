@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Rajendra Phalke</h1>
 
 <ul>
-<h4 align="left"><li> A passionate frontend developer from India and a Coding Enthusiast.</li> </h4>
+<h4 align="left"><li> A passionate developer from India and a Coding Enthusiast.</li> </h4>
 <h4 align="left"> <li>Currently : B.Tech CS student at Vishwakarma Institute of Technology in Pune.</li> </h4>
 <h4 align="leftt"><li> I am currently learning : JAVA and HTML.</li></h4>
 </ul>
